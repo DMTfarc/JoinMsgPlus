@@ -1,0 +1,7 @@
+name: JoinMsgPlus
+main: cn.hdce.mingtfarc.Sarah.JoinMsg
+version: 1.0
+author: mingtfarc
+permissions: 
+  JoinMsgPlus.broadcast: 
+    default: op
